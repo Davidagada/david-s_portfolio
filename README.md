@@ -15,3 +15,13 @@ In the real estate market, accurately predicting the price of a house is crucial
  - Numpy
  - Seaborn
  - Decision Tree Regressor and Linear Regression as our model
+
+### Project 2
+To categorise the customers to the clusters they belong to give them personalised recommendations
+
+### Tools used 
+- Python
+- Pandas
+- Numpy
+- Matplotlib.pyplot
+- Kmeans
